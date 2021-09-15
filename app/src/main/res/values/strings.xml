@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fused-Location-API-Example</string>
+    <string name="latitudePlace">Latitude Place</string>
+    <string name="longPlaceholder">Long Place holder</string>
+</resources>
